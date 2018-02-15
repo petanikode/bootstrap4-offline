@@ -8,6 +8,7 @@ Ketik perintah berikut:
 ```bash
 cd /var/www/html/
 mkdir doc
+cd doc
 ```
 
 Lalu clone repositorinya dengan perintah berikut:
