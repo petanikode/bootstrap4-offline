@@ -1,6 +1,6 @@
 ini adalah dokumentasi Bootstrap 4 offline. Pastikan sudah membaca tutorial cara build-nya di: https://www.petanikode.com/bootstrap4-offline
 
-## Cara Menggunakan
+## Cara Menggunakannya :
 
 Clone repositori ini ke dalam `htdocs` atau `/var/www/html`.
 Ketik perintah berikut:
